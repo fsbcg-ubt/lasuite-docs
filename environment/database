@@ -1,0 +1,12 @@
+# App database configuration
+DB_HOST=database
+DB_NAME=docs
+DB_USER=docs
+DB_PASSWORD=
+DB_PORT=5432
+
+# Postgresql Container Configuration
+POSTGRES_DB=docs
+POSTGRES_USER=docs
+POSTGRES_PASSWORD=
+PGDATA=/var/lib/postgresql/data/pgdata
